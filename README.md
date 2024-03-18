@@ -52,7 +52,7 @@ Si cet événement se produit, alors une notification apparaît "Une personne es
 
 ## b) Clignotement lumière
 
-Lorsqu’une personne sonne, nous voulons également que nos lumières connectées clignotent. Pour cela, nous pouvons également utiliser l'application IFTTT de la même manière. Cependant, afin de diversifier ce projet et d'obtenir un meilleur contrôle, nous utiliserons cette fois-ci l'API de Phillips Hue.
+Lorsqu’une personne sonne, nous voulons également que nos lumières connectées clignotent. Pour cela, nous pouvons également utiliser l'application IFTTT de la même manière. Cependant, afin de diversifier ce projet et d'obtenir un meilleur contrôle, nous utiliserons cette fois-ci l'API de Philips Hue.
 Notre Nodemcu pourra interagir avec nos LED et communiquer avec notre pont Hue en envoyant des requêtes HTTP à cette API sur notre réseau local.
 
 [https://developers.meethue.com/develop/get-started-2/](https://developers.meethue.com/develop/get-started-2/)
